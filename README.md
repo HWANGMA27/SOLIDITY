@@ -1,6 +1,7 @@
 # SOLIDITY
 https://www.inflearn.com/course/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-blockchain/dashboard
-##솔리디티를 활용한 스마트 컨트랙트 개발
+
+## 솔리디티를 활용한 스마트 컨트랙트 개발
 
 ### 1. 투표 스마트 컨트랙트
 
